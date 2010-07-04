@@ -1,0 +1,7 @@
+This Greasemonkey script currently does three things for 365tomorrows.com:
+
+1. It replaces the corrupted characters found in some of the older stories with the (hopefully) correct values, making the stories easier to understand.
+2. It forces all links to be underlined. I find this makes reading the forum easier; YMMV.
+3. It ads a floating bar to the top-left corner of the browser window. Here, 365TomorrowsFixer tries to add a link to the forum discussion for whatever story you are reading. It's buggy, and I may eventually remove it. :-P
+
+I welcome any improvements. I'm sure I haven't found all the corrupted characters yet. The code also does not have a consistent style, and is not really clear or well documented. Finally, I would like to replace the odd Unicode characters embedded in the code with their appropriate escape sequences, so I don't have to scramble for a UTF-8-compatible editor! 
